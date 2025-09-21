@@ -1,0 +1,23 @@
+body {background-color: blanchedalmond;
+
+}
+h1 {color: brown;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h2 {color: darkred;
+
+}
+h3 {color: darkred;
+
+}
+#Ingr {color: darkred;
+
+}
+.odd {color: #380303;
+
+}
+.even {color: #683737;
+
+}
+ol {border-style: solid;}
